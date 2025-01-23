@@ -10,24 +10,41 @@ This dataset encompasses sales records from three major cities in Myanmar: Naypy
 
 Key Features
 Volume: 1000 records
+
 Fields: 17 distinct fields including:
+
 Invoice ID: Unique identifier for each sale.
+
 Branch: Designated branch (A, B, C).
+
 City: Location of sale (Naypyitaw, Yangon, Mandalay).
+
 Customer Type: Classification of customer.
 
 Gender: Customer gender.
+
 Product Line: Category of product sold.
+
 Unit Price: Price per unit.
+
 Quantity: Number of units sold.
+
 VAT: Value-added tax.
+
 Total: Total sales amount.
+
 Date: Date of transaction.
+
 Time: Time of transaction.
+
 Payment Method: Mode of payment.
+
 COGS: Cost of goods sold.
+
 Gross Margin Percentage: Profit margin percentage.
+
 Gross Income: Total gross income.
+
 Rating: Customer rating of the transaction. 
 
 Actions Taken on Dataset
