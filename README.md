@@ -15,6 +15,7 @@ Invoice ID: Unique identifier for each sale.
 Branch: Designated branch (A, B, C).
 City: Location of sale (Naypyitaw, Yangon, Mandalay).
 Customer Type: Classification of customer.
+
 Gender: Customer gender.
 Product Line: Category of product sold.
 Unit Price: Price per unit.
