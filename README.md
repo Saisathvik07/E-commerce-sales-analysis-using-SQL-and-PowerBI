@@ -13,39 +13,39 @@ Volume: 1000 records
 
 Fields: 17 distinct fields including:
 
-Invoice ID: Unique identifier for each sale.
+1.Invoice ID: Unique identifier for each sale.
 
-Branch: Designated branch (A, B, C).
+2.Branch: Designated branch (A, B, C).
 
-City: Location of sale (Naypyitaw, Yangon, Mandalay).
+3.City: Location of sale (Naypyitaw, Yangon, Mandalay).
 
-Customer Type: Classification of customer.
+4.Customer Type: Classification of customer.
 
-Gender: Customer gender.
+5.Gender: Customer gender.
 
-Product Line: Category of product sold.
+6.Product Line: Category of product sold.
 
-Unit Price: Price per unit.
+7.Unit Price: Price per unit.
 
-Quantity: Number of units sold.
+8.Quantity: Number of units sold.
 
-VAT: Value-added tax.
+9.VAT: Value-added tax.
 
-Total: Total sales amount.
+10.Total: Total sales amount.
 
-Date: Date of transaction.
+11.Date: Date of transaction.
 
-Time: Time of transaction.
+12.Time: Time of transaction.
 
-Payment Method: Mode of payment.
+13.Payment Method: Mode of payment.
 
-COGS: Cost of goods sold.
+14.COGS: Cost of goods sold.
 
-Gross Margin Percentage: Profit margin percentage.
+15.Gross Margin Percentage: Profit margin percentage.
 
-Gross Income: Total gross income.
+16.Gross Income: Total gross income.
 
-Rating: Customer rating of the transaction. 
+17.Rating: Customer rating of the transaction. 
 
 Actions Taken on Dataset
 
