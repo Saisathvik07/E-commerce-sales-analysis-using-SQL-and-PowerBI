@@ -1,14 +1,14 @@
 # E-commerce-sales-analysis-using-SQL-and-PowerBI
-Goal Of The Project
+# Goal Of The Project
 
 The primary objective of this project is to explore Amazon's sales data to extract insights and analyze the factors influencing sales across various cities and their respective branches using SQL. It focuses on identifying sales trends, understanding customer behavior, and evaluating product performance. Through the use of SQL queries, the project aims to derive meaningful patterns and valuable statistics from intricate datasets.
 
-Dataset Summary 
+# Dataset Summary 
 
 Dataset Overview
 This dataset encompasses sales records from three major cities in Myanmar: Naypyitaw, Yangon, and Mandalay, along with their respective branches A, B, and C. The sales data pertains to the first quarter of 2019.
 
-Key Features
+# Key Features
 Volume: 1000 records
 
 Fields: 17 distinct fields including:
@@ -47,7 +47,7 @@ Fields: 17 distinct fields including:
 
 17.Rating: Customer rating of the transaction. 
 
-Actions Taken on Dataset
+# Actions Taken on Dataset
 
 Data Collection: Gathered 1,000 sales records from branches A, B, and C across Naypyitaw, Yangon, and Mandalay for the first quarter of 2019.
 
@@ -67,7 +67,7 @@ Data Visualization: Created various charts and graphs to represent key findings,
 
 Reporting: Compiled a comprehensive report summarizing the key insights, findings, and visual representations from the dataset.
 
-Questions Answered 
+# Questions Answered 
 
 What is the count of distinct cities in the dataset?
 
